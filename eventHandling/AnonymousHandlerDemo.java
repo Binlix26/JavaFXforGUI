@@ -1,6 +1,5 @@
-package EventHandling;
+package eventHandling;
 
-import com.sun.xml.internal.stream.Entity;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

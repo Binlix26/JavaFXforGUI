@@ -1,4 +1,4 @@
-package EventHandling;
+package eventHandling;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -12,8 +12,6 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
-
-import javax.swing.*;
 
 /**
  * Created by binlix26 on 5/03/17.
